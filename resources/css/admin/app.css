@@ -1,0 +1,71 @@
+li {
+    list-style: none;
+}
+
+.searchButton {
+    background-color: #1F3BB3 !important;
+    border-color: #1F3BB3 !important;
+}
+
+.mdi-table-question {
+    margin-left: 5rem;
+    font-size: 3.5rem;
+}
+
+.p-dropdown-panel {
+    z-index: 1000000000 !important;
+}
+
+.form-control-lg::file-selector-button{
+    padding: 1.2rem 1.94rem !important;
+    background-color: #1F3BB3 !important;
+    color: white !important;
+}
+
+/* Pagination */
+
+.Pagination {
+    display: flex;
+    column-gap: 10px;
+    margin-top: 2rem;
+}
+
+.PaginationControl {
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: rgb(242, 242, 242);
+    border: 1px solid rgb(217, 217, 217);
+    color: black;
+}
+.Control {
+    margin: 0 auto !important;
+}
+
+.PaginationControl:hover {
+    background-color: #d8d8d8;
+}
+
+.Page {
+    height: 40px !important;
+    width: 40px !important;
+    border-radius: 20px !important;
+    background-color: rgb(242, 242, 242) !important;
+    border: 1px solid rgb(217, 217, 217) !important;
+    color: black !important;
+}
+
+.Page-active {
+    background-color: #1F3BB3 !important;
+    border: 1px solid #1F3BB3 !important;
+    color: white !important;
+}
+
+.Page-active:hover {
+    background-color: #1F3BB3 !important;
+}
+
+
+
+

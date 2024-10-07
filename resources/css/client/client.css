@@ -1,0 +1,21 @@
+.searchButton {
+    background-color: #359d52 !important;
+    border-color: #69bb7e !important;
+}
+
+.p-accordion .p-accordion-content {
+    padding: 0 !important;
+}
+
+.p-accordion-content > .list-group-item {
+    padding: 1rem;
+    cursor: pointer;
+}
+
+.p-accordion-content > .list-group-item:hover {
+    background-color: #359d52;
+    color: white;
+    border-color: #69bb7e;
+}
+
+
